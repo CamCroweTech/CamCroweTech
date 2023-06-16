@@ -9,7 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/CamCroweTech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CamCroweTech/azure-network-protocols)
-
+- <b>Wireshark</b>
+  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/CamCroweTech/wireshark-network-protocols)
+- <b>Virtual Private Networks (VPNs)</b>
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/CamCroweTech/vpn-usage)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Cameron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
